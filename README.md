@@ -29,7 +29,7 @@ El flujo es:
 * Si se concluye que el cambio creó un problema, el **"analizador"** o el **"usuario"** escribe el resultado del análisis como comentario del changeset.
   * Se puede hacer referencia al tiquete para sustentación técnica.
   * Esto le da tiempo al **"creador"** del cambio de revisarlo y tomar las acciones necesarias.
-* Si después de 2 semanas, no se ve respuesta del **"creador"**, se hace un revert.
+* Si después de 2 semanas, no se ve respuesta del **"creador"**, se hace un revert ( documentado ).
   * Lo puede hacer el **"analizador"** o el **"usuario"**.
 * Se cierra el tiquete.
   * Lo puede hacer el **"analizador"** o el **"usuario"**.
