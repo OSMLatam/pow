@@ -1,12 +1,20 @@
 # pow
 
-[PoW](https://en.wikipedia.org/wiki/Proof_of_work) quiere decir Proof of Work, o prueba de trabajo. Este repositorio busca solo utilizar la funcionalidad de tiquetes (issues) de GitHub para reportar algún problema de mapeo identificado en el mapa.
+Este repositorio busca solo utilizar la funcionalidad de tiquetes (issues) de GitHub para reportar algún problema de mapeo identificado en el mapa.
+
+[PoW](https://en.wikipedia.org/wiki/Proof_of_work) quiere decir Proof of Work, o prueba de trabajo.
+
+Se invita a los interesados en el mapa, a darle "watch" (arriba a la derecha), para que sean notificados ante los reportes, y poder responder tempránamente a la solicitud.
+
+# Roles
 
 Para el proceso hay tres roles:
 
 * **"usuario"**.
 * **"analizador"**.
 * **"creador"**.
+
+# Flujo
 
 El flujo es:
 
