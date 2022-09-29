@@ -1,3 +1,5 @@
+![PoW](https://github.com/OSMLatam/pow/blob/main/pow.png)
+
 # pow
 
 Este repositorio busca solo utilizar la funcionalidad de tiquetes (issues) de GitHub para reportar algún problema de mapeo identificado en el mapa.
