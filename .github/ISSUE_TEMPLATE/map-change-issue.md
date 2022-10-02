@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 Descripción:
-<Da una sustentación de por qué es un cambio problemático. Por ejemplo, borrado masivo, cambio de propiedades sin motivo, movimiento de features>
+<Da una sustentación de por qué es un cambio problemático. Por ejemplo, borrado masivo, cambio de propiedades sin motivo, movimiento de features, exposición de datos personales. Puedes incluir capturas de pantalla para explicar mejor.>
 
-<Puedes indicar el id de un chageset y/o el objeto>
+<Puedes indicar el id de un chageset y/o el objeto. Puedes indicar varios, separados por coma>
 Changeset:
 Tipo de objeto: (node, way, relation)
 Id del objeto:
