@@ -1,7 +1,7 @@
 ---
 name: Problema en un cambio en el mapa
 about: Notificación de un cambio inválido en el mapa que necesita revisión, y validar su eventual reversión.
-title: ''
+title: 'Cambio sospechoso'
 labels: help wanted
 assignees: ''
 
@@ -15,4 +15,4 @@ Changeset:
 Tipo de objeto: (node, way, relation)
 Id del objeto:
 
-País:
+<No olvides poner la etiqueta del país del problema. Están aquí a la derecha, en la sección Labels.>
