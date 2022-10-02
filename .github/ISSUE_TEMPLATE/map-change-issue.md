@@ -1,5 +1,5 @@
 ---
-name: Problema en un cambio en el mapa
+name: Reporte de un problema en el mapa
 about: Notificación de un cambio inválido en el mapa que necesita revisión, y validar su eventual reversión.
 title: 'Cambio sospechoso'
 labels: help wanted
