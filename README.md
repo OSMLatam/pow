@@ -8,6 +8,8 @@ Este repositorio busca solo utilizar la funcionalidad de tiquetes (issues) de Gi
 
 Invitamos a los interesados en el mapa, a darle "watch" (arriba a la derecha), para que sean notificados de los reportes, y poder responder tempránamente a estos.
 
+Este espacio puede considerarse una alternativa (en español) del canal de Discord OSM-World > #questionable-edits (https://discord.com/channels/413070382636072960/763192797775265864/1265749609997930517).
+
 # Quieres reportar un cambio sospechoso
 
 * Tienes que tener cuenta en GitHub. Realmente es fácil crearla.
